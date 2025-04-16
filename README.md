@@ -2,7 +2,7 @@ Code for "Global translation speed affects native folding of multi-domain protei
 
 List of scripts
 
-0_assignment.py (footprint assignment) \n
+0_assignment.py (footprint assignment)
 1_CI_calc.py (confidence interval calculation for SeRP data sets)
 2_onset.py (chaperone engagement onset determination)
 3_metagene.py (SeRP metagene calculation)
